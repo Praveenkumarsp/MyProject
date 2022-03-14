@@ -32,7 +32,7 @@ public class Employee {
 		e.employeeDetails(9791167478l, 600978);
 		e.employeeDetails(1666, 2022, 'm');
 		e.employeeDetails("ee@123", 800.50f);
-		e.employeeDetails(50.5f, "chennai");
+	  
 		
 	}
 }
